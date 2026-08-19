@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img alt="Pray Apostel — AI engineer building voice agents, edge ML, reasoning systems, and computer vision" src="./assets/profile-header-light.svg" width="100%">
-</picture>
+<img alt="An engineering notebook becomes a deployed museum robot, representing Pray Apostel's work in voice agents, edge ML, reasoning systems, and computer vision" src="./assets/profile-header.png" width="100%">
 
 <p align="center">
   <a href="https://praysimanjuntak.com">portfolio</a> ·
